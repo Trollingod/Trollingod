@@ -23,5 +23,3 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trollingod&show_icons=true&theme=tokyonight)
