@@ -5,5 +5,3 @@
 
 ## Proyectos
 - Simulación en C++
-- Smart Devices (OOP)
-- Experimentos de física
