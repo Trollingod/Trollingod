@@ -23,5 +23,9 @@
 
 ---
 
+![C++](https://img.shields.io/badge/C%2B%2B-blue)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+
+
 ![Banner](bandera.svg.webp) 
 
